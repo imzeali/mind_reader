@@ -1,2 +1,2 @@
 # mind_reader
-Microsoft small ice interface encapsulation
+Microsoft xiaoice mind reader interface encapsulation

@@ -1,6 +1,5 @@
 # mind_reader
-Microsoft xiaoice mind reader interface encapsulation （python2.7）<br>
-150 行代码实现微软小冰读心术 http 接口封装（python2.7），命令行交互。
+Microsoft xiaoice mind reader interface (python2.7)
 
 # quick start
 

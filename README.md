@@ -7,7 +7,7 @@ First you think about someone and then answer 15 questions from the mind reader,
 #### 1、clone project
 
 ```
-$ git clone https://github.com/ZealiGit/mind_reader.git
+$ https://github.com/imzeali/mind_reader.git
 ```
 
 #### 2、environment

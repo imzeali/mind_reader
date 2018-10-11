@@ -1,6 +1,6 @@
 # mind_reader
 What is the mind reader？mind reader is an AI skill for Microsoft ice。</br>
-First you think about someone and then answer 15 questions from the mind reader, it can guess who you're thinking about
+First，you think about someone and then answer 15 questions from the mind reader, it can guess who you're thinking about
 
 # quick start
 
